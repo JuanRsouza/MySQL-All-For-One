@@ -1,13 +1,5 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+O projeto MyQsl One For All consiste em um CRUD desenvolvido para trabalhar com banco de dados MySQL. Foram criadas mais de 20 queries para manipulação dos dados, permitindo que o usuário possa realizar operações de Create, Read, Update e Delete com facilidade.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Através da utilização do CRUD, é possível gerenciar informações de forma simples e eficiente, garantindo a integridade e a segurança dos dados armazenados no banco de dados. O MySQL foi escolhido como banco de dados para este projeto devido à sua eficiência, escalabilidade e robustez.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+As queries desenvolvidas permitem a manipulação de dados em diferentes tabelas do banco de dados, garantindo uma maior flexibilidade e adaptabilidade às necessidades do usuário. Além disso, as queries foram desenvolvidas de forma clara e organizada, permitindo que o usuário possa entender e utilizar as operações de forma intuitiva.
